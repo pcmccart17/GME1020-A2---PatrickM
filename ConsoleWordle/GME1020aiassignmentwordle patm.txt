@@ -1,0 +1,19 @@
+﻿Opening repositories:
+C:\Users\pcmcc\Source\Repos\ConsoleWordle
+Commit 14cd36b6 created locally in repository C:\Users\pcmcc\Source\Repos\ConsoleWordle
+Pushing master
+Failed to push to the remote repository. See the Output window for more details.
+Remote: Permission to CriticalDesign/ConsoleWordle.git denied to pcmccart17.
+Error encountered while pushing to the remote repository: Git failed with a fatal error.
+unable to access 'https://github.com/CriticalDesign/ConsoleWordle.git/': The requested URL returned error: 403
+
+Pushing master
+Failed to push to the remote repository. See the Output window for more details.
+Remote: Permission to CriticalDesign/ConsoleWordle.git denied to pcmccart17.
+Error encountered while pushing to the remote repository: Git failed with a fatal error.
+unable to access 'https://github.com/CriticalDesign/ConsoleWordle.git/': The requested URL returned error: 403
+
+Opening repositories:
+C:\Users\pcmcc\Source\Repos\ConsoleWordle
+Opening repositories:
+C:\Users\pcmcc\Source\Repos\ConsoleWordle

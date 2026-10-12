@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37710.0 d17.14
+VisualStudioVersion = 17.14.37710.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWordle", "ConsoleWordle\ConsoleWordle.csproj", "{732F98B5-FCCF-42C7-A861-57F0A1400226}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GME1020A2PatrickM", "ConsoleWordle\GME1020A2PatrickM.csproj", "{732F98B5-FCCF-42C7-A861-57F0A1400226}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
